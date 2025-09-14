@@ -41,4 +41,4 @@ models/
 *.temp
 
 # 忽略特定檔案 (如果需要)
-# src/3_churn_prediction.py
+src/3_churn_prediction.py
