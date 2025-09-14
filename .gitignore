@@ -28,7 +28,7 @@ __pycache__/
 ehthumbs.db
 Thumbs.db
 
-# 忽略模型檔案 (如果有的話)
+# 忽略模型檔案 
 models/
 *.pkl
 *.joblib
@@ -40,5 +40,5 @@ models/
 *.tmp
 *.temp
 
-# 忽略特定檔案 (如果需要)
+# 忽略特定檔案 (待開發)
 src/3_churn_prediction.py

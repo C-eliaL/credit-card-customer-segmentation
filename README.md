@@ -63,7 +63,7 @@ Credit Card Dataset for Clustering/
 ### 1. 環境設定
 
 ```bash
-# 複製專案
+
 git clone https://github.com/C-eliaL/credit-card-customer-segmentation.git
 cd Credit-Card-Dataset-for-Clustering
 
