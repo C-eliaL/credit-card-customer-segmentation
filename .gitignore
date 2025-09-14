@@ -1,0 +1,44 @@
+# 忽略虛擬環境資料夾
+venv/
+env/
+ENV/
+
+# 忽略 Python 快取檔案
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# 忽略 Jupyter Notebook 檢查點
+.ipynb_checkpoints/
+
+# 忽略 IDE 設定檔案
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 忽略作業系統產生的檔案
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# 忽略模型檔案 (如果有的話)
+models/
+*.pkl
+*.joblib
+
+# 忽略日誌檔案
+*.log
+
+# 忽略臨時檔案
+*.tmp
+*.temp
+
+# 忽略特定檔案 (如果需要)
+# src/3_churn_prediction.py

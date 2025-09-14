@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyterlab  # 讓我們能在 VSCode 中使用 notebook
+joblib      # 用於保存模型
